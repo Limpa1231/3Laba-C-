@@ -1,0 +1,8 @@
+E:\.creations\DSTU\CSharp\lab3f\lab3f\bin\Debug\lab3f.exe.config
+E:\.creations\DSTU\CSharp\lab3f\lab3f\bin\Debug\lab3f.exe
+E:\.creations\DSTU\CSharp\lab3f\lab3f\bin\Debug\lab3f.pdb
+E:\.creations\DSTU\CSharp\lab3f\lab3f\obj\Debug\lab3f.csproj.AssemblyReference.cache
+E:\.creations\DSTU\CSharp\lab3f\lab3f\obj\Debug\lab3f.csproj.SuggestedBindingRedirects.cache
+E:\.creations\DSTU\CSharp\lab3f\lab3f\obj\Debug\lab3f.csproj.CoreCompileInputs.cache
+E:\.creations\DSTU\CSharp\lab3f\lab3f\obj\Debug\lab3f.exe
+E:\.creations\DSTU\CSharp\lab3f\lab3f\obj\Debug\lab3f.pdb
